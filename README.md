@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+### `tnpm i`
+
 ### `def d`
 
 Runs the app in development mode.
